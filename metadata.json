@@ -1,0 +1,8 @@
+{
+  "name": "Kariyer & Mülakat Koçu AI",
+  "description": "Mülakatçının unvanına özel soru ve taktik üreten, tamamlanan eğitimleri analiz ederek sonraki adım için yol haritası çıkaran yapay zeka kariyer asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
